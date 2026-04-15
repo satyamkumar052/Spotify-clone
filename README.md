@@ -55,17 +55,6 @@ A responsive web-based music streaming interface inspired by Spotify. This proje
 
 2. **Open in browser**
    - Simply open `spotify.html` in your web browser
-   - Or use a local server:
-     ```bash
-     # Using Python 3
-     python -m http.server 8000
-     
-     # Using Python 2
-     python -m SimpleHTTPServer 8000
-     
-     # Using Node.js
-     npx http-server
-     ```
 
 3. **Access the application**
    - Navigate to `http://localhost:8000` (or the port shown)
