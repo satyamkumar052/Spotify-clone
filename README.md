@@ -70,3 +70,47 @@ A responsive web-based music streaming interface inspired by Spotify. This proje
 3. **Access the application**
    - Navigate to `http://localhost:8000` (or the port shown)
 
+## 💻 Usage
+
+1. **Navigation**
+   - Click on "Home" to view the main dashboard
+   - Use "Search" to explore content
+
+2. **Playlist & Shows**
+   - Browse recently played content
+   - Explore featured charts and recommendations
+   - Discover new podcast shows
+
+3. **Music Player**
+   - Click play/pause button to control playback
+   - Drag the progress bar to seek to a specific time
+   - Adjust volume using the volume slider on the right
+   - Use shuffle and repeat buttons for playback modes
+
+4. **Interaction**
+   - Hover over sidebar options to see full opacity
+   - Like songs using the heart icon in the player
+   - Access device options for streaming
+
+
+### assets/
+Contains all image assets:
+- UI icons (navigation, player controls)
+- Playlist artwork (card images)
+- Podcast cover images
+- Logo and branding elements
+
+
+```
+
+### Update Content
+Modify `spotify.html` to:
+- Change playlist titles and descriptions
+- Add new playlist cards
+- Update artist/podcast information
+- Modify songs in the player
+
+
+---
+
+**Note:** This is a front-end UI clone only and does not include actual music streaming functionality. It serves as a portfolio project to demonstrate HTML, CSS, and UI/UX design skills.
