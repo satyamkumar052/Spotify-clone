@@ -30,3 +30,43 @@ A responsive web-based music streaming interface inspired by Spotify. This proje
   - Material Icons integration
   - Mobile-responsive layout
 
+## 🎬 Technologies Used
+
+- **HTML5** - Semantic markup for page structure
+- **CSS3** - Modern styling with flexbox layout
+- **Font Awesome** - Comprehensive icon library (v6.7.2)
+- **Material Icons** - Google's material design icons
+- **Montserrat Font** - Clean, modern typography from Google Fonts
+
+
+## 🚀 Installation & Setup
+
+### Prerequisites
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- No server required - runs entirely in the browser
+
+### Steps
+
+1. **Clone or download the project**
+   ```bash
+   git clone https://github.com/yourusername/Spotify-clone.git
+   cd Spotify-clone
+   ```
+
+2. **Open in browser**
+   - Simply open `spotify.html` in your web browser
+   - Or use a local server:
+     ```bash
+     # Using Python 3
+     python -m http.server 8000
+     
+     # Using Python 2
+     python -m SimpleHTTPServer 8000
+     
+     # Using Node.js
+     npx http-server
+     ```
+
+3. **Access the application**
+   - Navigate to `http://localhost:8000` (or the port shown)
+
